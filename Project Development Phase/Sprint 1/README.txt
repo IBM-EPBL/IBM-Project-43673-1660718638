@@ -4,7 +4,7 @@ PROJECT:Skill and job recommender
 
 TEAM LEADER: HARISUDHAN C
 
-TEAM MEMBERS:KESHAVARDHINI,DHILIPAN ,RAJESH,DIVYA
+TEAM MEMBERS:alakesvaran, john sharma, iniyan
 
 
 SPRINT -1
